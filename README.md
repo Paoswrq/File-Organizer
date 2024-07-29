@@ -4,3 +4,5 @@ You can then import the script and specify the folder you want to organize:
 
 from file_organizer import organizer
 organizer("path/to/your/folder")
+
+**DISCLAIMER**: This operation cannot be undone, so please **TRIPLE CHECK** your file path before running the script!"
